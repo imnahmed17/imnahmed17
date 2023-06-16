@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/imnahmed17" target="blank"><img src="https://img.shields.io/twitter/follow/imnahmed17?logo=twitter&style=for-the-badge" alt="imnahmed17" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🔭 I’m currently working on my Web development skills.
+
+- 🌱 I’m currently learning React by building projects.
+
+- 👯 I’m looking to collaborate on any open-source projects using JavaScript.
 
 - 📫 How to reach me **ashiknoman17@gmail.com**
 
